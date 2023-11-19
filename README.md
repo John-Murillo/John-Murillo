@@ -15,7 +15,7 @@ Estoy inmerso en el aprendizaje de diversos lenguajes de programación y tecnolo
 - Desarrollo web con HTML, CSS y JavaScript.
 - Explorando conceptos de redes y telecomunicaciones.
 
-## 👯 Busco colaborar en...
+## 👨🏻‍💻 Busco colaborar en...
 
 Me encantaría colaborar en proyectos que combinen mis conocimientos en telecomunicaciones con mis habilidades emergentes en programación. Si tienes un proyecto interesante, ¡házmelo saber!
 
